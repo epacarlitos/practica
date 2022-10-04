@@ -1,2 +1,0 @@
-# practica
-Variable de saludo
